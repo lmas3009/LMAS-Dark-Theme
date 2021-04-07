@@ -1,0 +1,21 @@
+{
+    "name": "lmas-dark-theme",
+    "displayName": "LMAS dark theme",
+    "description": "A new Dark Theme from LMAS",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Dark Theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aravind Kumar Vemula",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aravind Kumar Vemula-color-theme.json"
+            }
+        ]
+    }
+}
