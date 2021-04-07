@@ -12,7 +12,9 @@
         "vscode": "^1.55.0"
     },
     "categories": [
-        "Dark Theme"
+        "dark theme",
+        "theme",
+        "lmas"
     ],
     "contributes": {
         "themes": [
