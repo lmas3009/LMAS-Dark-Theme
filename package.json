@@ -1,8 +1,9 @@
 {
     "name": "lmas-dark-theme",
     "displayName": "LMAS dark theme",
-    "description": "A new Dark Theme from LMAS",
+    "description": "A new VS Code Dark Theme",
     "version": "0.0.1",
+    "publisher": "LMASdarktheme",
     "engines": {
         "vscode": "^1.55.0"
     },
