@@ -4,6 +4,10 @@
     "description": "A new VS Code Dark Theme",
     "version": "0.0.1",
     "publisher": "LMASdarktheme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lmas3009/LMAS-Dark-Theme"
+    },
     "engines": {
         "vscode": "^1.55.0"
     },
