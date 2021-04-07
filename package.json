@@ -12,6 +12,9 @@
         "vscode": "^1.55.0"
     },
     "categories": [
+        "Themes"
+    ],
+    "keywords": [
         "dark theme",
         "theme",
         "lmas"
