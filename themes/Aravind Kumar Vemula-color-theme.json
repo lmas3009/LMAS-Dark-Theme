@@ -724,7 +724,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#63c45b"
+				"foreground": "#52b148"
 			}
 		},
 		{
@@ -1833,7 +1833,7 @@
 		}
 	],
 	"colors": {
-		"foreground": "#000000",
+		"foreground": "#ffffff",
 		"focusBorder": "#5b6c82",
 		"selection.background": "#141734",
 		"scrollbar.shadow": "#1d1d1d",
@@ -1866,7 +1866,7 @@
 		"statusBar.background": "#272c30",
 		"statusBarItem.hoverBackground": "#ffffff1f",
 		"statusBar.border": "#272c30",
-		"statusBar.debuggingBackground": "#fd0000",
+		"statusBar.debuggingBackground": "#860000",
 		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.debuggingBorder": "#ffffff",
 		"statusBar.noFolderBackground": "#272c30",
@@ -1881,7 +1881,7 @@
 		"titleBar.border": "#ffffff00",
 		"menubar.selectionForeground": "#18eae0",
 		"menubar.selectionBackground": "#ffffff1a",
-		"menubar.selectionBorder": "#ff0000",
+		"menubar.selectionBorder": "#ff000000",
 		"menu.foreground": "#ffffff",
 		"menu.background": "#272c30",
 		"menu.selectionForeground": "#18eae0",
@@ -1894,7 +1894,7 @@
 		"button.hoverBackground": "#ff0000",
 		"button.secondaryForeground": "#ffffff",
 		"button.secondaryBackground": "#6f6f6f",
-		"button.secondaryHoverBackground": "#f00188",
+		"button.secondaryHoverBackground": "#000000",
 		"input.background": "#272c30",
 		"input.border": "#00000000",
 		"input.foreground": "#ffffff",
@@ -1925,7 +1925,7 @@
 		"editor.wordHighlightStrongBackground": "#455862b8",
 		"editor.wordHighlightBackground": "#575757b8",
 		"editor.lineHighlightBackground": "#ffffff0A",
-		"editor.lineHighlightBorder": "#3cb0aa",
+		"editor.lineHighlightBorder": "#ffffff12",
 		"editorLineNumber.activeForeground": "#18eae0",
 		"editorLink.activeForeground": "#4e94ce",
 		"editorIndentGuide.background": "#404040",
@@ -1984,6 +1984,7 @@
 		"terminal.ansiRed": "#cd3131",
 		"terminal.ansiWhite": "#cdcaca",
 		"terminal.ansiYellow": "#e5e510",
+		"debugIcon.startForeground": "#ff0000",
 		"breadcrumb.background": "#272c30",
 		"breadcrumb.foreground": "#ffffffcc",
 		"breadcrumb.focusForeground": "#ffffff",
@@ -2004,7 +2005,7 @@
 		"scrollbarSlider.hoverBackground": "#5c6b77",
 		"scrollbarSlider.activeBackground": "#ffffff66",
 		"progressBar.background": "#ff0000",
-		"widget.shadow": "#0000005c",
+		"widget.shadow": "#ffffff12",
 		"editorWidget.foreground": "#cccccc",
 		"editorWidget.background": "#252526",
 		"editorWidget.resizeBorder": "#5F5F5F",
@@ -2079,6 +2080,7 @@
 		"minimap.warningHighlight": "#cca700",
 		"minimap.background": "#272c30",
 		"sideBar.dropBackground": "#272c30",
+		"sideBar.border": "#4b4b4b",
 		"editorGroup.emptyBackground": "#272c30",
 		"panelSection.border": "#18eae074",
 		"statusBarItem.activeBackground": "#FFFFFF25",
